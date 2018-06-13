@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\s3\pk3\lab2\wumpus3\wumpus3\main.cpp(14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  wumpus3.vcxproj -> D:\s3\pk3\lab2\wumpus3\Debug\wumpus3.exe
+  wumpus3.vcxproj -> D:\s3\pk3\lab2\wumpus3\Debug\wumpus3.pdb (Partial PDB)
